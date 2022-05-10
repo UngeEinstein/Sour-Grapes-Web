@@ -1,0 +1,5 @@
+{
+    "video": false,
+    "experimentalComponentTesting": true,
+    "componentFolder": "./cypress/UnitTest"
+}
